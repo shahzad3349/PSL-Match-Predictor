@@ -1,0 +1,4 @@
+Model,CV Acc,CV F1,CV ROC-AUC,Acc Std
+XGBoost,0.5703,0.46,0.5668,0.0466
+Random Forest,0.5606,0.4054,0.5692,0.0508
+Logistic Regression,0.532,0.3562,0.522,0.0488

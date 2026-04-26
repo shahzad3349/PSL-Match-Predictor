@@ -1,0 +1,312 @@
+match_id,season,venue,batting_team_inn1,bowling_team_inn1,inn1_total_runs,inn1_wickets,inn1_extras,inn1_boundaries,inn1_sixes,inn1_fours,inn1_dot_balls,inn1_pp_runs,inn1_pp_wickets,inn1_death_runs,inn1_death_wickets,inn2_total_runs,inn2_wickets,winner,target,batting_team_enc,bowling_team_enc,venue_enc,inn1_run_rate,inn1_boundary_pct,inn1_dot_ball_pct,pp_run_rate,death_run_rate
+959175,2016,Dubai International Cricket Stadium,Islamabad United,Quetta Gladiators,128,7,4,14,4,10,63,21,1,66,2,132,2,Quetta Gladiators,0,0,5,0,6.4,11.67,52.5,3.5,13.2
+959177,2016,Dubai International Cricket Stadium,Lahore Qalandars,Karachi Kings,125,8,9,11,2,9,54,37,2,45,4,131,3,Karachi Kings,0,2,1,0,6.25,9.17,45.0,6.17,9.0
+959179,2016,Dubai International Cricket Stadium,Peshawar Zalmi,Islamabad United,145,7,17,13,3,10,54,31,1,57,4,121,9,Peshawar Zalmi,1,4,0,0,7.25,10.83,45.0,5.17,11.4
+959181,2016,Dubai International Cricket Stadium,Karachi Kings,Quetta Gladiators,147,7,11,12,3,9,46,29,1,63,3,153,2,Quetta Gladiators,0,1,5,0,7.35,10.0,38.33,4.83,12.6
+959183,2016,Dubai International Cricket Stadium,Lahore Qalandars,Peshawar Zalmi,117,6,6,12,1,11,61,20,3,54,2,118,1,Peshawar Zalmi,0,2,4,0,5.85,10.0,50.83,3.33,10.8
+959185,2016,Dubai International Cricket Stadium,Islamabad United,Karachi Kings,132,8,4,12,5,7,55,42,1,43,5,130,9,Islamabad United,1,0,1,0,6.6,10.0,45.83,7.0,8.6
+959187,2016,Dubai International Cricket Stadium,Peshawar Zalmi,Quetta Gladiators,135,7,8,10,5,5,60,24,2,68,2,139,7,Quetta Gladiators,0,4,5,0,6.75,8.33,50.0,4.0,13.6
+959189,2016,Dubai International Cricket Stadium,Lahore Qalandars,Quetta Gladiators,194,3,3,28,12,16,45,29,0,76,2,131,10,Lahore Qalandars,1,2,5,0,9.7,23.33,37.5,4.83,15.2
+959191,2016,Sharjah Cricket Stadium,Lahore Qalandars,Islamabad United,166,6,9,21,6,15,48,36,1,66,2,169,2,Islamabad United,0,2,0,7,8.3,17.5,40.0,6.0,13.2
+959195,2016,Sharjah Cricket Stadium,Islamabad United,Quetta Gladiators,117,10,3,11,6,5,55,39,1,31,4,118,3,Quetta Gladiators,0,0,5,7,5.85,9.17,45.83,6.5,6.2
+959197,2016,Sharjah Cricket Stadium,Karachi Kings,Lahore Qalandars,178,5,8,18,9,9,44,37,0,73,2,151,8,Karachi Kings,1,1,2,7,8.9,15.0,36.67,6.17,14.6
+959199,2016,Sharjah Cricket Stadium,Islamabad United,Peshawar Zalmi,152,6,7,18,8,10,55,28,1,44,4,153,3,Peshawar Zalmi,0,0,4,7,7.6,15.0,45.83,4.67,8.8
+959201,2016,Sharjah Cricket Stadium,Karachi Kings,Quetta Gladiators,126,9,5,12,3,9,45,40,1,35,6,127,5,Quetta Gladiators,0,1,5,7,6.3,10.0,37.5,6.67,7.0
+959203,2016,Sharjah Cricket Stadium,Lahore Qalandars,Peshawar Zalmi,164,3,8,18,3,15,37,32,1,64,1,160,7,Lahore Qalandars,1,2,4,7,8.2,15.0,30.83,5.33,12.8
+959205,2016,Sharjah Cricket Stadium,Karachi Kings,Islamabad United,128,5,7,12,2,10,47,26,2,47,2,131,5,Islamabad United,0,1,0,7,6.4,10.0,39.17,4.33,9.4
+959207,2016,Sharjah Cricket Stadium,Quetta Gladiators,Peshawar Zalmi,129,10,14,13,7,6,60,42,2,46,1,130,2,Peshawar Zalmi,0,5,4,7,6.45,10.83,50.0,7.0,9.2
+959209,2016,Dubai International Cricket Stadium,Lahore Qalandars,Quetta Gladiators,201,2,5,29,12,17,41,51,0,76,1,203,8,Quetta Gladiators,0,2,5,0,10.05,24.17,34.17,8.5,15.2
+959211,2016,Dubai International Cricket Stadium,Karachi Kings,Peshawar Zalmi,152,7,9,15,5,10,50,31,0,48,3,158,5,Peshawar Zalmi,0,1,4,0,7.6,12.5,41.67,5.17,9.6
+959213,2016,Dubai International Cricket Stadium,Lahore Qalandars,Islamabad United,150,5,6,16,6,10,52,12,3,69,2,151,5,Islamabad United,0,2,0,0,7.5,13.33,43.33,2.0,13.8
+959215,2016,Dubai International Cricket Stadium,Quetta Gladiators,Peshawar Zalmi,133,10,10,17,4,13,60,23,2,27,6,132,9,Quetta Gladiators,1,5,4,0,6.65,14.17,50.0,3.83,5.4
+959217,2016,Dubai International Cricket Stadium,Karachi Kings,Islamabad United,111,9,12,9,2,7,64,28,2,37,5,115,1,Islamabad United,0,1,0,0,5.55,7.5,53.33,4.67,7.4
+959219,2016,Dubai International Cricket Stadium,Islamabad United,Peshawar Zalmi,176,3,12,23,8,15,50,34,0,56,1,126,10,Islamabad United,1,0,4,0,8.8,19.17,41.67,5.67,11.2
+959221,2016,Dubai International Cricket Stadium,Quetta Gladiators,Islamabad United,174,7,2,24,7,17,43,33,1,57,5,175,4,Islamabad United,0,5,0,0,8.7,20.0,35.83,5.5,11.4
+1075986,2017,Dubai International Cricket Stadium,Peshawar Zalmi,Islamabad United,190,9,15,23,11,12,49,41,1,54,6,175,3,Islamabad United,0,4,0,0,9.5,19.17,40.83,6.83,10.8
+1075987,2017,Dubai International Cricket Stadium,Quetta Gladiators,Lahore Qalandars,136,9,6,12,3,9,47,23,2,56,4,128,10,Quetta Gladiators,1,5,2,0,6.8,10.0,39.17,3.83,11.2
+1075988,2017,Dubai International Cricket Stadium,Karachi Kings,Peshawar Zalmi,118,7,3,11,3,8,53,15,4,56,3,119,3,Peshawar Zalmi,0,1,4,0,5.9,9.17,44.17,2.5,11.2
+1075989,2017,Dubai International Cricket Stadium,Islamabad United,Lahore Qalandars,158,7,8,18,6,12,46,34,0,60,4,160,4,Lahore Qalandars,0,0,2,0,7.9,15.0,38.33,5.67,12.0
+1075990,2017,Dubai International Cricket Stadium,Karachi Kings,Quetta Gladiators,159,8,2,19,5,14,39,34,1,72,5,160,3,Quetta Gladiators,0,1,5,0,7.95,15.83,32.5,5.67,14.4
+1075991,2017,Dubai International Cricket Stadium,Lahore Qalandars,Peshawar Zalmi,59,10,2,9,1,8,41,35,4,0,0,60,7,Peshawar Zalmi,0,2,4,0,2.95,7.5,34.17,5.83,0.0
+1075992,2017,Sharjah Cricket Stadium,Quetta Gladiators,Islamabad United,148,6,2,15,4,11,37,37,2,57,2,149,5,Islamabad United,0,5,0,7,7.4,12.5,30.83,6.17,11.4
+1075993,2017,Sharjah Cricket Stadium,Lahore Qalandars,Karachi Kings,179,8,9,21,6,15,39,57,1,47,4,172,8,Lahore Qalandars,1,2,1,7,8.95,17.5,32.5,9.5,9.4
+1075995,2017,Sharjah Cricket Stadium,Islamabad United,Karachi Kings,90,8,5,10,6,4,41,22,2,0,0,75,4,Karachi Kings,0,0,1,7,4.5,8.33,34.17,3.67,0.0
+1075996,2017,Sharjah Cricket Stadium,Lahore Qalandars,Quetta Gladiators,200,3,4,27,12,15,36,62,0,75,0,202,5,Quetta Gladiators,0,2,5,7,10.0,22.5,30.0,10.33,15.0
+1075997,2017,Sharjah Cricket Stadium,Peshawar Zalmi,Islamabad United,136,9,8,18,4,14,61,28,2,58,3,137,5,Islamabad United,0,4,0,7,6.8,15.0,50.83,4.67,11.6
+1075998,2017,Sharjah Cricket Stadium,Karachi Kings,Peshawar Zalmi,174,4,4,22,7,15,37,45,0,72,1,165,10,Karachi Kings,1,1,4,7,8.7,18.33,30.83,7.5,14.4
+1075999,2017,Sharjah Cricket Stadium,Islamabad United,Lahore Qalandars,145,8,9,15,8,7,55,36,1,62,2,146,9,Lahore Qalandars,0,0,2,7,7.25,12.5,45.83,6.0,12.4
+1076000,2017,Dubai International Cricket Stadium,Karachi Kings,Quetta Gladiators,154,6,14,17,6,11,60,46,0,60,3,158,4,Quetta Gladiators,0,1,5,0,7.7,14.17,50.0,7.67,12.0
+1076001,2017,Dubai International Cricket Stadium,Peshawar Zalmi,Lahore Qalandars,166,6,16,18,2,16,46,42,1,60,3,149,9,Peshawar Zalmi,1,4,2,0,8.3,15.0,38.33,7.0,12.0
+1076002,2017,Dubai International Cricket Stadium,Islamabad United,Quetta Gladiators,165,6,7,19,7,12,45,30,1,68,3,164,5,Islamabad United,1,0,5,0,8.25,15.83,37.5,5.0,13.6
+1076003,2017,Dubai International Cricket Stadium,Lahore Qalandars,Karachi Kings,155,6,10,16,5,11,45,40,1,56,1,158,5,Karachi Kings,0,2,1,0,7.75,13.33,37.5,6.67,11.2
+1076004,2017,Dubai International Cricket Stadium,Quetta Gladiators,Peshawar Zalmi,128,10,12,11,3,8,60,23,2,36,7,130,8,Peshawar Zalmi,0,5,4,0,6.4,9.17,50.0,3.83,7.2
+1076005,2017,Dubai International Cricket Stadium,Islamabad United,Karachi Kings,123,7,4,14,4,10,33,40,1,11,2,127,4,Karachi Kings,0,0,1,0,6.15,11.67,27.5,6.67,2.2
+1076006,2017,Sharjah Cricket Stadium,Quetta Gladiators,Peshawar Zalmi,200,7,12,23,8,15,33,44,1,55,4,199,9,Quetta Gladiators,1,5,4,7,10.0,19.17,27.5,7.33,11.0
+1076007,2017,Sharjah Cricket Stadium,Karachi Kings,Islamabad United,126,10,6,16,2,14,58,35,0,34,7,82,10,Karachi Kings,1,1,0,7,6.3,13.33,48.33,5.83,6.8
+1076008,2017,Dubai International Cricket Stadium,Peshawar Zalmi,Karachi Kings,181,3,4,22,9,13,36,34,0,59,2,157,7,Peshawar Zalmi,1,4,1,0,9.05,18.33,30.0,5.67,11.8
+1076009,2017,Gaddafi Stadium,Peshawar Zalmi,Quetta Gladiators,148,6,10,19,6,13,59,46,1,47,2,90,10,Peshawar Zalmi,1,4,5,1,7.4,15.83,49.17,7.67,9.4
+1128818,2018,Dubai International Cricket Stadium,Peshawar Zalmi,Multan Sultans,151,6,10,19,6,13,59,26,2,58,3,152,3,Multan Sultans,0,4,3,0,7.55,15.83,49.17,4.33,11.6
+1128819,2018,Dubai International Cricket Stadium,Karachi Kings,Quetta Gladiators,149,9,9,16,2,14,43,35,1,56,6,130,9,Karachi Kings,1,1,5,0,7.45,13.33,35.83,5.83,11.2
+1128820,2018,Dubai International Cricket Stadium,Multan Sultans,Lahore Qalandars,179,5,16,20,7,13,45,46,0,69,3,136,10,Multan Sultans,1,3,2,0,8.95,16.67,37.5,7.67,13.8
+1128821,2018,Dubai International Cricket Stadium,Peshawar Zalmi,Islamabad United,176,6,4,23,7,16,42,43,0,50,3,142,9,Peshawar Zalmi,1,4,0,0,8.8,19.17,35.0,7.17,10.0
+1128822,2018,Dubai International Cricket Stadium,Lahore Qalandars,Quetta Gladiators,119,9,4,15,7,8,68,60,2,26,3,120,1,Quetta Gladiators,0,2,5,0,5.95,12.5,56.67,10.0,5.2
+1128823,2018,Dubai International Cricket Stadium,Multan Sultans,Islamabad United,113,10,3,10,3,7,53,18,2,42,6,117,5,Islamabad United,0,3,0,0,5.65,8.33,44.17,3.0,8.4
+1128824,2018,Dubai International Cricket Stadium,Peshawar Zalmi,Karachi Kings,131,9,7,16,7,9,70,35,2,60,3,135,5,Karachi Kings,0,4,1,0,6.55,13.33,58.33,5.83,12.0
+1128825,2018,Dubai International Cricket Stadium,Karachi Kings,Lahore Qalandars,159,7,7,19,7,12,56,36,2,69,2,132,10,Karachi Kings,1,1,2,0,7.95,15.83,46.67,6.0,13.8
+1128826,2018,Sharjah Cricket Stadium,Islamabad United,Quetta Gladiators,134,7,8,13,4,9,57,28,2,41,4,135,4,Quetta Gladiators,0,0,5,7,6.7,10.83,47.5,4.67,8.2
+1128827,2018,Sharjah Cricket Stadium,Quetta Gladiators,Peshawar Zalmi,141,8,3,14,7,7,47,29,1,42,4,143,5,Peshawar Zalmi,0,5,4,7,7.05,11.67,39.17,4.83,8.4
+1128829,2018,Sharjah Cricket Stadium,Islamabad United,Lahore Qalandars,121,9,3,12,4,8,56,19,2,50,3,121,10,No result,0,0,2,7,6.05,10.0,46.67,3.17,10.0
+1128830,2018,Sharjah Cricket Stadium,Quetta Gladiators,Multan Sultans,102,10,16,9,3,6,49,29,2,5,5,108,1,Multan Sultans,0,5,3,7,5.1,7.5,40.83,4.83,1.0
+1128831,2018,Sharjah Cricket Stadium,Lahore Qalandars,Peshawar Zalmi,100,10,7,12,5,7,66,48,1,6,4,104,0,Peshawar Zalmi,0,2,4,7,5.0,10.0,55.0,8.0,1.2
+1128832,2018,Sharjah Cricket Stadium,Karachi Kings,Islamabad United,153,6,2,19,4,15,41,31,1,62,5,156,2,Islamabad United,0,1,0,7,7.65,15.83,34.17,5.17,12.4
+1128833,2018,Dubai International Cricket Stadium,Multan Sultans,Peshawar Zalmi,183,3,4,22,11,11,42,40,0,76,2,164,8,Multan Sultans,1,3,4,0,9.15,18.33,35.0,6.67,15.2
+1128834,2018,Dubai International Cricket Stadium,Multan Sultans,Quetta Gladiators,152,5,9,15,7,8,56,30,2,63,1,156,8,Quetta Gladiators,0,3,5,0,7.6,12.5,46.67,5.0,12.6
+1128835,2018,Dubai International Cricket Stadium,Lahore Qalandars,Islamabad United,163,8,8,17,8,9,48,47,0,52,6,164,4,Islamabad United,0,2,0,0,8.15,14.17,40.0,7.83,10.4
+1128836,2018,Dubai International Cricket Stadium,Quetta Gladiators,Karachi Kings,180,4,2,25,9,16,39,37,0,58,3,113,8,Quetta Gladiators,1,5,1,0,9.0,20.83,32.5,6.17,11.6
+1128837,2018,Dubai International Cricket Stadium,Multan Sultans,Lahore Qalandars,114,10,4,15,2,13,62,41,0,19,8,115,4,Lahore Qalandars,0,3,2,0,5.7,12.5,51.67,6.83,3.8
+1128838,2018,Dubai International Cricket Stadium,Islamabad United,Peshawar Zalmi,182,5,7,25,9,16,47,39,1,73,2,156,9,Islamabad United,1,0,4,0,9.1,20.83,39.17,6.5,14.6
+1128839,2018,Dubai International Cricket Stadium,Karachi Kings,Multan Sultans,188,3,15,23,7,16,42,30,1,82,2,125,10,Karachi Kings,1,1,3,0,9.4,19.17,35.0,5.0,16.4
+1128840,2018,Dubai International Cricket Stadium,Peshawar Zalmi,Quetta Gladiators,157,5,4,20,10,10,51,33,1,58,1,158,4,Quetta Gladiators,0,4,5,0,7.85,16.67,42.5,5.5,11.6
+1128841,2018,Dubai International Cricket Stadium,Karachi Kings,Lahore Qalandars,163,5,12,20,3,17,40,36,1,58,3,163,8,No result,0,1,2,0,8.15,16.67,33.33,6.0,11.6
+1128842,2018,Sharjah Cricket Stadium,Islamabad United,Multan Sultans,185,4,9,26,8,18,50,46,1,62,2,152,10,Islamabad United,1,0,3,7,9.25,21.67,41.67,7.67,12.4
+1128843,2018,Sharjah Cricket Stadium,Lahore Qalandars,Quetta Gladiators,186,4,6,26,10,16,47,42,0,70,1,169,6,Lahore Qalandars,1,2,5,7,9.3,21.67,39.17,7.0,14.0
+1128844,2018,Sharjah Cricket Stadium,Peshawar Zalmi,Karachi Kings,181,6,7,24,14,10,48,24,1,78,3,137,8,Peshawar Zalmi,1,4,1,7,9.05,20.0,40.0,4.0,15.6
+1128845,2018,Sharjah Cricket Stadium,Quetta Gladiators,Islamabad United,147,7,10,14,6,8,44,29,1,43,4,149,4,Islamabad United,0,5,0,7,7.35,11.67,36.67,4.83,8.6
+1128846,2018,Sharjah Cricket Stadium,Lahore Qalandars,Peshawar Zalmi,172,4,5,21,13,8,47,40,2,55,1,176,3,Peshawar Zalmi,0,2,4,7,8.6,17.5,39.17,6.67,11.0
+1128847,2018,Sharjah Cricket Stadium,Islamabad United,Karachi Kings,124,10,6,15,5,10,60,22,2,20,4,125,3,Karachi Kings,0,0,1,7,6.2,12.5,50.0,3.67,4.0
+1128848,2018,Dubai International Cricket Stadium,Karachi Kings,Islamabad United,154,4,4,16,7,9,43,21,2,73,1,155,2,Islamabad United,0,1,0,0,7.7,13.33,35.83,3.5,14.6
+1128849,2018,Gaddafi Stadium,Peshawar Zalmi,Quetta Gladiators,157,10,4,24,5,19,57,37,2,56,5,156,9,Peshawar Zalmi,1,4,5,1,7.85,20.0,47.5,6.17,11.2
+1128850,2018,Gaddafi Stadium,Peshawar Zalmi,Karachi Kings,170,7,8,24,14,10,41,54,0,17,3,157,2,Peshawar Zalmi,1,4,1,1,8.5,20.0,34.17,9.0,3.4
+1128851,2018,National Stadium,Peshawar Zalmi,Islamabad United,148,9,5,18,6,12,50,36,2,47,5,154,7,Islamabad United,0,4,0,4,7.4,15.0,41.67,6.0,9.4
+1168820,2019,Dubai International Cricket Stadium,Lahore Qalandars,Islamabad United,171,8,9,20,6,14,41,45,0,41,6,177,5,Islamabad United,0,2,0,0,8.55,16.67,34.17,7.5,8.2
+1168821,2019,Dubai International Cricket Stadium,Karachi Kings,Multan Sultans,183,6,7,20,7,13,35,45,0,47,6,176,9,Karachi Kings,1,1,3,0,9.15,16.67,29.17,7.5,9.4
+1168822,2019,Dubai International Cricket Stadium,Peshawar Zalmi,Quetta Gladiators,155,4,6,19,8,11,49,35,1,59,1,161,4,Quetta Gladiators,0,4,5,0,7.75,15.83,40.83,5.83,11.8
+1168823,2019,Dubai International Cricket Stadium,Islamabad United,Multan Sultans,125,7,2,10,6,4,49,26,2,38,1,126,5,Multan Sultans,0,0,3,0,6.25,8.33,40.83,4.33,7.6
+1168824,2019,Dubai International Cricket Stadium,Lahore Qalandars,Karachi Kings,138,6,5,12,4,8,37,37,0,38,3,116,10,Lahore Qalandars,1,2,1,0,6.9,10.0,30.83,6.17,7.6
+1168825,2019,Dubai International Cricket Stadium,Islamabad United,Quetta Gladiators,157,8,8,21,4,17,55,24,3,66,2,161,3,Quetta Gladiators,0,0,5,0,7.85,17.5,45.83,4.0,13.2
+1168826,2019,Dubai International Cricket Stadium,Lahore Qalandars,Peshawar Zalmi,78,10,7,10,0,10,53,33,2,3,1,81,3,Peshawar Zalmi,0,2,4,0,3.9,8.33,44.17,5.5,0.6
+1168827,2019,Sharjah Cricket Stadium,Multan Sultans,Quetta Gladiators,160,9,13,19,3,16,49,41,1,60,6,161,2,Quetta Gladiators,0,3,5,7,8.0,15.83,40.83,6.83,12.0
+1168828,2019,Sharjah Cricket Stadium,Peshawar Zalmi,Karachi Kings,153,8,13,16,3,13,47,25,1,67,4,109,9,Peshawar Zalmi,1,4,1,7,7.65,13.33,39.17,4.17,13.4
+1168829,2019,Sharjah Cricket Stadium,Multan Sultans,Lahore Qalandars,200,6,11,25,12,13,45,54,0,45,4,204,5,Lahore Qalandars,0,3,2,7,10.0,20.83,37.5,9.0,9.0
+1168830,2019,Sharjah Cricket Stadium,Islamabad United,Peshawar Zalmi,158,9,11,16,6,10,48,33,1,54,6,146,10,Islamabad United,1,0,4,7,7.9,13.33,40.0,5.5,10.8
+1168831,2019,Sharjah Cricket Stadium,Lahore Qalandars,Quetta Gladiators,143,7,11,8,5,3,41,40,1,42,3,148,7,Quetta Gladiators,0,2,5,7,7.15,6.67,34.17,6.67,8.4
+1168832,2019,Sharjah Cricket Stadium,Karachi Kings,Islamabad United,143,6,2,15,4,11,39,27,3,69,0,147,3,Islamabad United,0,1,0,7,7.15,12.5,32.5,4.5,13.8
+1168833,2019,Sharjah Cricket Stadium,Multan Sultans,Peshawar Zalmi,145,10,15,13,5,8,52,32,1,33,7,146,5,Peshawar Zalmi,0,3,4,7,7.25,10.83,43.33,5.33,6.6
+1168834,2019,Sharjah Cricket Stadium,Quetta Gladiators,Karachi Kings,186,5,19,19,12,7,47,45,1,62,2,188,4,Karachi Kings,0,5,1,7,9.3,15.83,39.17,7.5,12.4
+1168835,2019,Dubai International Cricket Stadium,Islamabad United,Multan Sultans,121,10,4,17,5,12,56,42,3,27,4,122,4,Multan Sultans,0,0,3,0,6.05,14.17,46.67,7.0,5.4
+1168836,2019,Dubai International Cricket Stadium,Quetta Gladiators,Lahore Qalandars,106,10,8,9,2,7,60,43,1,19,5,107,2,Lahore Qalandars,0,5,2,0,5.3,7.5,50.0,7.17,3.8
+1168837,2019,Dubai International Cricket Stadium,Karachi Kings,Islamabad United,168,8,4,22,5,17,43,54,1,41,6,169,5,Islamabad United,0,1,0,0,8.4,18.33,35.83,9.0,8.2
+1168838,2019,Dubai International Cricket Stadium,Multan Sultans,Peshawar Zalmi,172,5,9,21,6,15,43,47,1,51,3,176,3,Peshawar Zalmi,0,3,4,0,8.6,17.5,35.83,7.83,10.2
+1168839,2019,Dubai International Cricket Stadium,Lahore Qalandars,Karachi Kings,133,5,4,15,4,11,56,33,1,48,1,134,5,Karachi Kings,0,2,1,0,6.65,12.5,46.67,5.5,9.6
+1168840,2019,Dubai International Cricket Stadium,Islamabad United,Peshawar Zalmi,176,10,8,23,4,19,46,38,1,49,8,177,6,Peshawar Zalmi,0,0,4,0,8.8,19.17,38.33,6.33,9.8
+1168841,2019,Dubai International Cricket Stadium,Multan Sultans,Quetta Gladiators,121,10,10,11,2,9,62,30,1,38,7,122,4,Quetta Gladiators,0,3,5,0,6.05,9.17,51.67,5.0,7.6
+1168842,2019,Sheikh Zayed Stadium,Peshawar Zalmi,Quetta Gladiators,165,4,6,23,7,16,51,41,0,63,2,166,2,Quetta Gladiators,0,4,5,8,8.25,19.17,42.5,6.83,12.6
+1168843,2019,Sheikh Zayed Stadium,Multan Sultans,Karachi Kings,118,7,9,11,0,11,54,26,2,37,2,120,5,Karachi Kings,0,3,1,8,5.9,9.17,45.0,4.33,7.4
+1168844,2019,Sheikh Zayed Stadium,Lahore Qalandars,Peshawar Zalmi,124,7,2,15,3,12,55,22,2,41,3,125,6,Peshawar Zalmi,0,2,4,8,6.2,12.5,45.83,3.67,8.2
+1168845,2019,Sheikh Zayed Stadium,Quetta Gladiators,Islamabad United,180,9,14,23,7,16,59,45,1,59,6,137,9,Quetta Gladiators,1,5,0,8,9.0,19.17,49.17,7.5,11.8
+1168846,2019,National Stadium,Peshawar Zalmi,Karachi Kings,203,7,8,29,9,20,43,49,0,53,5,142,10,Peshawar Zalmi,1,4,1,4,10.15,24.17,35.83,8.17,10.6
+1168847,2019,National Stadium,Islamabad United,Lahore Qalandars,238,3,8,36,16,20,34,63,2,88,0,189,9,Islamabad United,1,0,2,4,11.9,30.0,28.33,10.5,17.6
+1168848,2019,National Stadium,Karachi Kings,Quetta Gladiators,190,5,9,23,9,14,37,40,0,73,3,189,7,Karachi Kings,1,1,5,4,9.5,19.17,30.83,6.67,14.6
+1168849,2019,National Stadium,Lahore Qalandars,Multan Sultans,140,8,6,18,4,14,55,27,1,52,4,141,3,Multan Sultans,0,2,3,4,7.0,15.0,45.83,4.5,10.4
+1168850,2019,National Stadium,Karachi Kings,Islamabad United,161,9,3,20,3,17,35,61,1,36,6,164,6,Islamabad United,0,1,0,4,8.05,16.67,29.17,10.17,7.2
+1168851,2019,National Stadium,Quetta Gladiators,Peshawar Zalmi,186,6,9,25,8,17,43,53,1,52,3,176,7,Quetta Gladiators,1,5,4,4,9.3,20.83,35.83,8.83,10.4
+1168852,2019,National Stadium,Peshawar Zalmi,Islamabad United,214,5,10,32,11,21,41,51,0,75,3,166,9,Peshawar Zalmi,1,4,0,4,10.7,26.67,34.17,8.5,15.0
+1168853,2019,National Stadium,Peshawar Zalmi,Quetta Gladiators,138,8,10,16,3,13,54,38,2,44,4,139,2,Quetta Gladiators,0,4,5,4,6.9,13.33,45.0,6.33,8.8
+1211642,2020,National Stadium,Islamabad United,Quetta Gladiators,168,10,9,21,4,17,40,49,2,46,6,171,7,Quetta Gladiators,0,0,5,4,8.4,17.5,33.33,8.17,9.2
+1211643,2020,National Stadium,Karachi Kings,Peshawar Zalmi,201,4,9,25,9,16,38,40,1,69,2,191,7,Karachi Kings,1,1,4,4,10.05,20.83,31.67,6.67,13.8
+1211644,2020,Gaddafi Stadium,Lahore Qalandars,Multan Sultans,138,8,5,18,7,11,61,53,0,38,3,142,5,Multan Sultans,0,2,3,1,6.9,15.0,50.83,8.83,7.6
+1211645,2020,National Stadium,Quetta Gladiators,Peshawar Zalmi,148,5,5,16,4,12,44,34,1,40,3,153,4,Peshawar Zalmi,0,5,4,4,7.4,13.33,36.67,5.67,8.0
+1211646,2020,Gaddafi Stadium,Multan Sultans,Islamabad United,164,8,7,21,5,16,41,31,0,61,4,165,2,Islamabad United,0,3,0,1,8.2,17.5,34.17,5.17,12.2
+1211647,2020,National Stadium,Karachi Kings,Quetta Gladiators,156,9,16,18,4,14,53,35,1,59,4,157,5,Quetta Gladiators,0,1,5,4,7.8,15.0,44.17,5.83,11.8
+1211648,2020,Gaddafi Stadium,Lahore Qalandars,Islamabad United,182,6,7,25,9,16,47,54,1,73,2,183,9,Islamabad United,0,2,0,1,9.1,20.83,39.17,9.0,14.6
+1211649,2020,Multan Cricket Stadium,Peshawar Zalmi,Multan Sultans,123,10,6,17,2,15,61,41,2,20,3,124,4,Multan Sultans,0,4,3,3,6.15,14.17,50.83,6.83,4.0
+1211650,2020,Rawalpindi Cricket Stadium,Islamabad United,Quetta Gladiators,187,7,7,25,12,13,50,50,2,47,3,190,5,Quetta Gladiators,0,0,5,6,9.35,20.83,41.67,8.33,9.4
+1211651,2020,Multan Cricket Stadium,Multan Sultans,Karachi Kings,186,6,7,22,7,15,36,39,1,67,4,134,10,Multan Sultans,1,3,1,3,9.3,18.33,30.0,6.5,13.4
+1211652,2020,Rawalpindi Cricket Stadium,Peshawar Zalmi,Lahore Qalandars,132,7,4,18,10,8,29,70,2,0,0,116,6,Peshawar Zalmi,1,4,2,6,6.6,15.0,24.17,11.67,0.0
+1211653,2020,Multan Cricket Stadium,Multan Sultans,Quetta Gladiators,199,5,8,30,6,24,44,35,1,86,2,169,7,Multan Sultans,1,3,5,3,9.95,25.0,36.67,5.83,17.2
+1211655,2020,Rawalpindi Cricket Stadium,Islamabad United,Karachi Kings,183,3,5,23,8,15,41,40,1,77,0,187,5,Karachi Kings,0,0,1,6,9.15,19.17,34.17,6.67,15.4
+1211656,2020,Rawalpindi Cricket Stadium,Peshawar Zalmi,Karachi Kings,151,8,10,15,3,12,49,17,3,62,4,152,4,Karachi Kings,0,4,1,6,7.55,12.5,40.83,2.83,12.4
+1211657,2020,Gaddafi Stadium,Lahore Qalandars,Quetta Gladiators,209,5,3,31,13,18,39,37,1,96,2,172,10,Lahore Qalandars,1,2,5,1,10.45,25.83,32.5,6.17,19.2
+1211658,2020,Gaddafi Stadium,Islamabad United,Lahore Qalandars,198,3,7,29,6,23,36,40,0,72,1,127,10,Islamabad United,1,0,2,1,9.9,24.17,30.0,6.67,14.4
+1211659,2020,Rawalpindi Cricket Stadium,Peshawar Zalmi,Quetta Gladiators,170,6,7,25,8,17,32,41,2,13,0,140,7,Peshawar Zalmi,1,4,5,6,8.5,20.83,26.67,6.83,2.6
+1211661,2020,Rawalpindi Cricket Stadium,Islamabad United,Peshawar Zalmi,195,5,8,20,9,11,36,48,2,56,2,85,2,Peshawar Zalmi,0,0,4,6,9.75,16.67,30.0,8.0,11.2
+1211662,2020,Gaddafi Stadium,Quetta Gladiators,Lahore Qalandars,98,9,15,10,2,8,85,21,3,43,2,100,2,Lahore Qalandars,0,5,2,1,4.9,8.33,70.83,3.5,8.6
+1211663,2020,Rawalpindi Cricket Stadium,Islamabad United,Multan Sultans,91,7,9,11,5,6,23,59,2,0,0,94,1,Multan Sultans,0,0,3,6,4.55,9.17,19.17,9.83,0.0
+1211664,2020,Gaddafi Stadium,Karachi Kings,Lahore Qalandars,187,5,3,27,10,17,42,37,1,86,1,190,2,Lahore Qalandars,0,1,2,1,9.35,22.5,35.0,6.17,17.2
+1211665,2020,Gaddafi Stadium,Peshawar Zalmi,Lahore Qalandars,187,7,8,24,8,16,39,35,3,63,4,189,5,Lahore Qalandars,0,4,2,1,9.35,20.0,32.5,5.83,12.6
+1211667,2020,National Stadium,Lahore Qalandars,Karachi Kings,150,5,6,18,3,15,47,37,0,42,2,151,0,Karachi Kings,0,2,1,4,7.5,15.0,39.17,6.17,8.4
+1211668,2020,National Stadium,Multan Sultans,Peshawar Zalmi,154,6,6,17,4,13,46,32,0,51,2,151,8,Multan Sultans,1,3,4,4,7.7,14.17,38.33,5.33,10.2
+1211669,2020,National Stadium,Islamabad United,Karachi Kings,136,6,4,13,1,12,44,35,1,39,2,137,6,Karachi Kings,0,0,1,4,6.8,10.83,36.67,5.83,7.8
+1211670,2020,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,186,6,12,23,7,16,39,28,2,91,1,191,1,Lahore Qalandars,0,3,2,1,9.3,19.17,32.5,4.67,18.2
+1211671,2020,National Stadium,Karachi Kings,Quetta Gladiators,150,5,8,16,3,13,47,30,2,58,2,154,5,Quetta Gladiators,0,1,5,4,7.5,13.33,39.17,5.0,11.6
+1211672,2020,"National Stadium, Karachi",Multan Sultans,Karachi Kings,141,7,4,13,6,7,41,34,2,55,2,141,8,No result,0,3,1,5,7.05,10.83,34.17,5.67,11.0
+1211673,2020,National Stadium,Peshawar Zalmi,Lahore Qalandars,170,9,3,18,10,8,37,34,2,64,4,171,5,Lahore Qalandars,0,4,2,4,8.5,15.0,30.83,5.67,12.8
+1211675,2020,National Stadium,Lahore Qalandars,Multan Sultans,182,6,5,26,5,21,41,46,1,72,2,157,10,Lahore Qalandars,1,2,3,4,9.1,21.67,34.17,7.67,14.4
+1231146,2020,National Stadium,Lahore Qalandars,Karachi Kings,134,7,14,14,2,12,57,30,0,46,3,135,5,Karachi Kings,0,2,1,4,6.7,11.67,47.5,5.0,9.2
+1247011,2021,National Stadium,Quetta Gladiators,Karachi Kings,121,10,10,16,4,12,66,43,2,24,4,126,3,Karachi Kings,0,5,1,4,6.05,13.33,55.0,7.17,4.8
+1247012,2021,National Stadium,Peshawar Zalmi,Lahore Qalandars,140,6,9,16,4,12,54,26,3,51,2,143,6,Lahore Qalandars,0,4,2,4,7.0,13.33,45.0,4.33,10.2
+1247013,2021,National Stadium,Multan Sultans,Islamabad United,150,8,2,19,6,13,50,28,1,41,3,151,7,Islamabad United,0,3,0,4,7.5,15.83,41.67,4.67,8.2
+1247014,2021,National Stadium,Quetta Gladiators,Lahore Qalandars,178,6,11,20,8,12,45,25,2,65,3,179,1,Lahore Qalandars,0,5,2,4,8.9,16.67,37.5,4.17,13.0
+1247015,2021,National Stadium,Multan Sultans,Peshawar Zalmi,193,4,11,25,8,17,41,35,1,71,2,197,4,Peshawar Zalmi,0,3,4,4,9.65,20.83,34.17,5.83,14.2
+1247016,2021,National Stadium,Karachi Kings,Islamabad United,196,3,10,27,10,17,47,30,0,68,3,197,5,Islamabad United,0,1,0,4,9.8,22.5,39.17,5.0,13.6
+1247017,2021,National Stadium,Lahore Qalandars,Multan Sultans,157,6,7,19,9,10,52,19,2,49,3,159,3,Multan Sultans,0,2,3,4,7.85,15.83,43.33,3.17,9.8
+1247018,2021,National Stadium,Quetta Gladiators,Peshawar Zalmi,198,7,8,30,4,26,45,28,1,81,4,202,7,Peshawar Zalmi,0,5,4,4,9.9,25.0,37.5,4.67,16.2
+1247019,2021,National Stadium,Multan Sultans,Karachi Kings,195,6,22,22,4,18,44,54,1,56,3,198,3,Karachi Kings,0,3,1,4,9.75,18.33,36.67,9.0,11.2
+1247020,2021,National Stadium,Islamabad United,Peshawar Zalmi,118,10,3,12,3,9,42,41,2,9,4,122,4,Peshawar Zalmi,0,0,4,4,5.9,10.0,35.0,6.83,1.8
+1247021,2021,National Stadium,Karachi Kings,Lahore Qalandars,186,9,13,26,9,17,57,37,3,54,5,189,4,Lahore Qalandars,0,1,2,4,9.3,21.67,47.5,6.17,10.8
+1247022,2021,National Stadium,Quetta Gladiators,Islamabad United,156,7,16,16,6,10,54,39,3,40,2,157,4,Islamabad United,0,5,0,4,7.8,13.33,45.0,6.5,8.0
+1247023,2021,National Stadium,Peshawar Zalmi,Karachi Kings,188,5,16,24,7,17,53,34,2,86,1,191,4,Karachi Kings,0,4,1,4,9.4,20.0,44.17,5.67,17.2
+1247024,2021,National Stadium,Quetta Gladiators,Multan Sultans,176,7,3,25,5,20,42,45,0,54,5,154,10,Quetta Gladiators,1,5,3,4,8.8,20.83,35.0,7.5,10.8
+1247025,2021,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,Karachi Kings,176,5,4,22,4,18,37,53,2,51,1,164,7,Multan Sultans,1,3,1,9,8.8,18.33,30.83,8.83,10.2
+1247026,2021,"Sheikh Zayed Stadium, Abu Dhabi",Lahore Qalandars,Peshawar Zalmi,170,8,10,17,10,7,45,14,3,90,4,160,8,Lahore Qalandars,1,2,4,9,8.5,14.17,37.5,2.33,18.0
+1247027,2021,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,Lahore Qalandars,143,9,11,17,4,13,63,41,2,55,3,144,5,Lahore Qalandars,0,0,2,9,7.15,14.17,52.5,6.83,11.0
+1247028,2021,"Sheikh Zayed Stadium, Abu Dhabi",Quetta Gladiators,Islamabad United,133,10,16,12,5,7,62,32,1,31,5,137,0,Islamabad United,0,5,0,9,6.65,10.0,51.67,5.33,6.2
+1247029,2021,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,Lahore Qalandars,152,7,6,18,5,13,50,19,3,58,2,124,10,Islamabad United,1,0,2,9,7.6,15.0,41.67,3.17,11.6
+1247030,2021,"Sheikh Zayed Stadium, Abu Dhabi",Peshawar Zalmi,Quetta Gladiators,197,5,10,25,11,14,46,19,2,63,3,136,9,Peshawar Zalmi,1,4,5,9,9.85,20.83,38.33,3.17,12.6
+1247031,2021,"Sheikh Zayed Stadium, Abu Dhabi",Peshawar Zalmi,Multan Sultans,166,7,14,18,6,12,50,41,0,62,3,167,2,Multan Sultans,0,4,3,9,8.3,15.0,41.67,6.83,12.4
+1247032,2021,"Sheikh Zayed Stadium, Abu Dhabi",Karachi Kings,Islamabad United,190,4,6,23,9,14,41,39,1,73,2,191,2,Islamabad United,0,1,0,9,9.5,19.17,34.17,6.5,14.6
+1247033,2021,"Sheikh Zayed Stadium, Abu Dhabi",Quetta Gladiators,Lahore Qalandars,158,5,15,21,3,18,61,28,1,49,2,140,10,Quetta Gladiators,1,5,2,9,7.9,17.5,50.83,4.67,9.8
+1247034,2021,"Sheikh Zayed Stadium, Abu Dhabi",Karachi Kings,Peshawar Zalmi,108,9,8,11,5,6,73,25,3,41,3,109,4,Peshawar Zalmi,0,1,4,9,5.4,9.17,60.83,4.17,8.2
+1247035,2021,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,Quetta Gladiators,183,5,13,21,7,14,43,38,0,56,2,73,10,Multan Sultans,1,3,5,9,9.15,17.5,35.83,6.33,11.2
+1247036,2021,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,Peshawar Zalmi,247,2,5,38,13,25,36,45,0,89,0,232,6,Islamabad United,1,0,4,9,12.35,31.67,30.0,7.5,17.8
+1247037,2021,"Sheikh Zayed Stadium, Abu Dhabi",Karachi Kings,Lahore Qalandars,176,5,10,21,7,14,42,36,1,63,2,169,7,Karachi Kings,1,1,2,9,8.8,17.5,35.0,6.0,12.6
+1247038,2021,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,Lahore Qalandars,169,8,16,22,6,16,58,45,2,50,5,89,10,Multan Sultans,1,3,2,9,8.45,18.33,48.33,7.5,10.0
+1247039,2021,"Sheikh Zayed Stadium, Abu Dhabi",Karachi Kings,Quetta Gladiators,176,7,8,23,12,11,55,39,0,84,4,162,6,Karachi Kings,1,1,5,9,8.8,19.17,45.83,6.5,16.8
+1247040,2021,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,Islamabad United,149,10,10,19,4,15,58,50,0,31,6,150,6,Islamabad United,0,3,0,9,7.45,15.83,48.33,8.33,6.2
+1247041,2021,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,Islamabad United,180,5,1,26,11,15,48,32,1,62,2,149,10,Multan Sultans,1,3,0,9,9.0,21.67,40.0,5.33,12.4
+1247042,2021,"Sheikh Zayed Stadium, Abu Dhabi",Karachi Kings,Peshawar Zalmi,175,7,10,22,5,17,49,35,0,76,4,176,5,Peshawar Zalmi,0,1,4,9,8.75,18.33,40.83,5.83,15.2
+1247043,2021,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,Peshawar Zalmi,174,9,8,25,8,17,55,38,2,67,4,177,2,Peshawar Zalmi,0,0,4,9,8.7,20.83,45.83,6.33,13.4
+1247044,2021,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,Peshawar Zalmi,206,4,9,28,9,19,42,37,0,79,2,159,9,Multan Sultans,1,3,4,9,10.3,23.33,35.0,6.17,15.8
+1293000,2022,"National Stadium, Karachi",Karachi Kings,Multan Sultans,124,5,6,9,3,6,44,34,0,39,3,126,3,Multan Sultans,0,1,3,5,6.2,7.5,36.67,5.67,7.8
+1293001,2022,"National Stadium, Karachi",Quetta Gladiators,Peshawar Zalmi,190,4,7,28,7,21,46,48,0,59,4,191,5,Peshawar Zalmi,0,5,4,5,9.5,23.33,38.33,8.0,11.8
+1293002,2022,"National Stadium, Karachi",Lahore Qalandars,Multan Sultans,206,5,8,28,9,19,33,49,0,68,3,209,5,Multan Sultans,0,2,3,5,10.3,23.33,27.5,8.17,13.6
+1293003,2022,"National Stadium, Karachi",Karachi Kings,Quetta Gladiators,113,10,2,14,3,11,52,30,4,29,2,114,2,Quetta Gladiators,0,1,5,5,5.65,11.67,43.33,5.0,5.8
+1293004,2022,"National Stadium, Karachi",Peshawar Zalmi,Islamabad United,168,6,14,23,4,19,56,31,2,67,2,172,1,Islamabad United,0,4,0,5,8.4,19.17,46.67,5.17,13.4
+1293005,2022,"National Stadium, Karachi",Karachi Kings,Lahore Qalandars,170,7,11,22,4,18,47,41,0,54,5,174,4,Lahore Qalandars,0,1,2,5,8.5,18.33,39.17,6.83,10.8
+1293006,2022,"National Stadium, Karachi",Multan Sultans,Quetta Gladiators,174,4,8,19,8,11,45,38,1,73,2,168,10,Multan Sultans,1,3,5,5,8.7,15.83,37.5,6.33,14.6
+1293007,2022,"National Stadium, Karachi",Multan Sultans,Islamabad United,217,5,3,35,14,21,45,30,1,107,2,197,10,Multan Sultans,1,3,0,5,10.85,29.17,37.5,5.0,21.4
+1293008,2022,"National Stadium, Karachi",Lahore Qalandars,Peshawar Zalmi,199,4,3,25,10,15,33,53,0,73,2,170,9,Lahore Qalandars,1,2,4,5,9.95,20.83,27.5,8.83,14.6
+1293009,2022,"National Stadium, Karachi",Islamabad United,Quetta Gladiators,229,4,3,32,15,17,31,64,1,56,1,186,10,Islamabad United,1,0,5,5,11.45,26.67,25.83,10.67,11.2
+1293010,2022,"National Stadium, Karachi",Peshawar Zalmi,Karachi Kings,173,4,10,18,6,12,41,42,0,63,1,164,6,Peshawar Zalmi,1,4,1,5,8.65,15.0,34.17,7.0,12.6
+1293011,2022,"National Stadium, Karachi",Lahore Qalandars,Islamabad United,174,9,8,23,3,20,41,61,0,62,4,166,5,Lahore Qalandars,1,2,0,5,8.7,19.17,34.17,10.17,12.4
+1293012,2022,"National Stadium, Karachi",Multan Sultans,Peshawar Zalmi,222,3,8,28,12,16,30,50,0,85,1,165,8,Multan Sultans,1,3,4,5,11.1,23.33,25.0,8.33,17.0
+1293013,2022,"National Stadium, Karachi",Islamabad United,Karachi Kings,177,6,8,21,7,14,35,37,0,61,4,135,9,Islamabad United,1,0,1,5,8.85,17.5,29.17,6.17,12.2
+1293014,2022,"National Stadium, Karachi",Lahore Qalandars,Quetta Gladiators,204,5,4,22,13,9,29,37,0,83,2,207,3,Quetta Gladiators,0,2,5,5,10.2,18.33,24.17,6.17,16.6
+1293015,2022,"Gaddafi Stadium, Lahore",Multan Sultans,Peshawar Zalmi,182,7,13,21,6,15,44,46,0,70,6,140,10,Multan Sultans,1,3,4,2,9.1,17.5,36.67,7.67,14.0
+1293016,2022,"Gaddafi Stadium, Lahore",Lahore Qalandars,Multan Sultans,182,4,6,22,6,16,38,45,1,75,2,130,10,Lahore Qalandars,1,2,3,2,9.1,18.33,31.67,7.5,15.0
+1293017,2022,"Gaddafi Stadium, Lahore",Islamabad United,Quetta Gladiators,199,8,20,25,11,14,54,48,1,69,2,203,5,Quetta Gladiators,0,0,5,2,9.95,20.83,45.0,8.0,13.8
+1293018,2022,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Karachi Kings,193,6,15,23,5,18,39,43,0,67,3,138,6,Peshawar Zalmi,1,4,1,2,9.65,19.17,32.5,7.17,13.4
+1293019,2022,"Gaddafi Stadium, Lahore",Quetta Gladiators,Lahore Qalandars,141,7,7,15,4,11,47,26,4,54,2,143,2,Lahore Qalandars,0,5,2,2,7.05,12.5,39.17,4.33,10.8
+1293020,2022,"Gaddafi Stadium, Lahore",Islamabad United,Karachi Kings,191,7,12,23,11,12,42,39,2,78,2,190,8,Islamabad United,1,0,1,2,9.55,19.17,35.0,6.5,15.6
+1293021,2022,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Quetta Gladiators,185,7,9,26,5,21,46,44,2,58,4,161,8,Peshawar Zalmi,1,4,5,2,9.25,21.67,38.33,7.33,11.6
+1293022,2022,"Gaddafi Stadium, Lahore",Karachi Kings,Multan Sultans,174,6,9,21,7,14,46,35,1,65,2,176,3,Multan Sultans,0,1,3,2,8.7,17.5,38.33,5.83,13.0
+1293023,2022,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Islamabad United,206,8,11,27,12,15,43,68,0,53,5,196,7,Peshawar Zalmi,1,4,0,2,10.3,22.5,35.83,11.33,10.6
+1293024,2022,"Gaddafi Stadium, Lahore",Multan Sultans,Quetta Gladiators,245,3,24,32,8,24,38,49,0,89,2,128,10,Multan Sultans,1,3,5,2,12.25,26.67,31.67,8.17,17.8
+1293025,2022,"Gaddafi Stadium, Lahore",Karachi Kings,Lahore Qalandars,149,10,11,19,2,17,57,35,2,45,5,127,9,Karachi Kings,1,1,2,2,7.45,15.83,47.5,5.83,9.0
+1293026,2022,"Gaddafi Stadium, Lahore",Lahore Qalandars,Islamabad United,197,6,8,23,8,15,36,37,3,81,2,131,9,Lahore Qalandars,1,2,0,2,9.85,19.17,30.0,6.17,16.2
+1293027,2022,"Gaddafi Stadium, Lahore",Quetta Gladiators,Karachi Kings,166,4,19,19,2,17,43,41,1,49,1,143,8,Quetta Gladiators,1,5,1,2,8.3,15.83,35.83,6.83,9.8
+1293028,2022,"Gaddafi Stadium, Lahore",Islamabad United,Multan Sultans,105,7,6,10,2,8,66,36,1,36,1,111,4,Multan Sultans,0,0,3,2,5.25,8.33,55.0,6.0,7.2
+1293029,2022,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Lahore Qalandars,158,7,11,15,3,12,45,49,1,46,3,158,8,No result,0,4,2,2,7.9,12.5,37.5,8.17,9.2
+1293030,2022,"Gaddafi Stadium, Lahore",Multan Sultans,Lahore Qalandars,163,2,10,16,1,15,34,40,1,64,0,135,9,Multan Sultans,1,3,2,2,8.15,13.33,28.33,6.67,12.8
+1293031,2022,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Islamabad United,169,5,5,23,4,19,41,35,1,69,2,170,5,Islamabad United,0,4,0,2,8.45,19.17,34.17,5.83,13.8
+1293032,2022,"Gaddafi Stadium, Lahore",Lahore Qalandars,Islamabad United,168,7,4,18,8,10,38,23,2,64,2,162,10,Lahore Qalandars,1,2,0,2,8.4,15.0,31.67,3.83,12.8
+1293033,2022,"Gaddafi Stadium, Lahore",Lahore Qalandars,Multan Sultans,180,5,3,22,7,15,34,26,3,86,1,138,10,Lahore Qalandars,1,2,3,2,9.0,18.33,28.33,4.33,17.2
+1354924,2023,Multan Cricket Stadium,Lahore Qalandars,Multan Sultans,175,6,11,20,8,12,51,33,0,55,4,174,6,Lahore Qalandars,1,2,3,3,8.75,16.67,42.5,5.5,11.0
+1354925,2023,"National Stadium, Karachi",Peshawar Zalmi,Karachi Kings,199,5,5,24,7,17,34,51,2,60,3,197,5,Peshawar Zalmi,1,4,1,5,9.95,20.0,28.33,8.5,12.0
+1354926,2023,Multan Cricket Stadium,Quetta Gladiators,Multan Sultans,110,10,7,13,3,10,64,37,2,35,2,111,1,Multan Sultans,0,5,3,3,5.5,10.83,53.33,6.17,7.0
+1354927,2023,"National Stadium, Karachi",Karachi Kings,Islamabad United,173,7,8,24,6,18,50,42,1,58,5,178,6,Islamabad United,0,1,0,5,8.65,20.0,41.67,7.0,11.6
+1354928,2023,Multan Cricket Stadium,Multan Sultans,Peshawar Zalmi,210,3,11,31,5,26,42,40,0,83,1,154,10,Multan Sultans,1,3,4,3,10.5,25.83,35.0,6.67,16.6
+1354929,2023,"National Stadium, Karachi",Quetta Gladiators,Karachi Kings,168,7,6,21,5,16,43,21,3,83,3,162,5,Quetta Gladiators,1,5,1,5,8.4,17.5,35.83,3.5,16.6
+1354930,2023,Multan Cricket Stadium,Multan Sultans,Islamabad United,190,4,14,22,8,14,41,45,1,88,1,138,10,Multan Sultans,1,3,0,3,9.5,18.33,34.17,7.5,17.6
+1354931,2023,"National Stadium, Karachi",Karachi Kings,Lahore Qalandars,185,5,19,20,8,12,47,49,0,58,1,118,10,Karachi Kings,1,1,2,5,9.25,16.67,39.17,8.17,11.6
+1354932,2023,"National Stadium, Karachi",Quetta Gladiators,Peshawar Zalmi,154,4,12,20,5,15,61,26,0,80,1,157,6,Peshawar Zalmi,0,5,4,5,7.7,16.67,50.83,4.33,16.0
+1354933,2023,"National Stadium, Karachi",Lahore Qalandars,Quetta Gladiators,198,6,7,24,7,17,36,56,1,56,3,135,8,Lahore Qalandars,1,2,5,5,9.9,20.0,30.0,9.33,11.2
+1354934,2023,Multan Cricket Stadium,Multan Sultans,Karachi Kings,196,2,4,25,5,20,31,45,0,85,1,193,5,Multan Sultans,1,3,1,3,9.8,20.83,25.83,7.5,17.0
+1354935,2023,"National Stadium, Karachi",Peshawar Zalmi,Islamabad United,156,8,3,16,3,13,37,61,0,38,3,159,4,Islamabad United,0,4,0,5,7.8,13.33,30.83,10.17,7.6
+1354936,2023,"National Stadium, Karachi",Islamabad United,Quetta Gladiators,220,6,5,33,18,15,46,36,2,104,2,157,10,Islamabad United,1,0,5,5,11.0,27.5,38.33,6.0,20.8
+1354937,2023,"National Stadium, Karachi",Karachi Kings,Multan Sultans,167,3,5,20,4,16,38,41,1,46,2,101,10,Karachi Kings,1,1,3,5,8.35,16.67,31.67,6.83,9.2
+1354938,2023,"Gaddafi Stadium, Lahore",Lahore Qalandars,Peshawar Zalmi,241,3,10,33,18,15,41,27,1,96,1,201,9,Lahore Qalandars,1,2,4,2,12.05,27.5,34.17,4.5,19.2
+1354939,2023,"Gaddafi Stadium, Lahore",Lahore Qalandars,Islamabad United,200,7,7,29,7,22,41,44,0,66,4,90,10,Lahore Qalandars,1,2,0,2,10.0,24.17,34.17,7.33,13.2
+1354940,2023,Rawalpindi Cricket Stadium,Peshawar Zalmi,Karachi Kings,197,5,13,27,12,15,58,27,3,91,1,173,8,Peshawar Zalmi,1,4,1,6,9.85,22.5,48.33,4.5,18.2
+1354941,2023,"Gaddafi Stadium, Lahore",Lahore Qalandars,Quetta Gladiators,148,10,9,19,5,14,58,23,3,49,3,131,7,Lahore Qalandars,1,2,5,2,7.4,15.83,48.33,3.83,9.8
+1354942,2023,Rawalpindi Cricket Stadium,Karachi Kings,Islamabad United,201,5,7,28,5,23,35,53,2,82,1,204,4,Islamabad United,0,1,0,6,10.05,23.33,29.17,8.83,16.4
+1354943,2023,"Gaddafi Stadium, Lahore",Lahore Qalandars,Multan Sultans,180,9,14,25,4,21,55,50,2,45,6,159,7,Lahore Qalandars,1,2,3,2,9.0,20.83,45.83,8.33,9.0
+1354944,2023,Rawalpindi Cricket Stadium,Quetta Gladiators,Islamabad United,179,6,11,22,8,14,50,15,3,80,2,183,8,Islamabad United,0,5,0,6,8.95,18.33,41.67,2.5,16.0
+1354945,2023,Rawalpindi Cricket Stadium,Karachi Kings,Quetta Gladiators,164,6,9,21,4,17,48,37,2,57,2,168,6,Quetta Gladiators,0,1,5,6,8.2,17.5,40.0,6.17,11.4
+1354946,2023,Rawalpindi Cricket Stadium,Peshawar Zalmi,Lahore Qalandars,207,10,16,27,10,17,41,64,0,57,8,172,10,Peshawar Zalmi,1,4,2,6,10.35,22.5,34.17,10.67,11.4
+1354947,2023,Rawalpindi Cricket Stadium,Multan Sultans,Islamabad United,205,5,10,27,9,18,37,44,0,66,3,209,8,Islamabad United,0,3,0,6,10.25,22.5,30.83,7.33,13.2
+1354948,2023,Rawalpindi Cricket Stadium,Peshawar Zalmi,Quetta Gladiators,240,2,9,35,11,24,33,49,0,75,1,243,2,Quetta Gladiators,0,4,5,6,12.0,29.17,27.5,8.17,15.0
+1354949,2023,Rawalpindi Cricket Stadium,Lahore Qalandars,Islamabad United,226,5,15,30,14,16,44,53,1,80,3,107,9,Lahore Qalandars,1,2,0,6,11.3,25.0,36.67,8.83,16.0
+1354950,2023,Rawalpindi Cricket Stadium,Peshawar Zalmi,Multan Sultans,242,6,6,35,15,20,37,55,0,76,4,244,6,Multan Sultans,0,4,3,6,12.1,29.17,30.83,9.17,15.2
+1354951,2023,Rawalpindi Cricket Stadium,Multan Sultans,Quetta Gladiators,262,3,6,39,17,22,30,64,0,65,1,253,8,Multan Sultans,1,3,5,6,13.1,32.5,25.0,10.67,13.0
+1354952,2023,Rawalpindi Cricket Stadium,Peshawar Zalmi,Islamabad United,179,8,8,23,8,15,47,52,1,34,3,166,10,Peshawar Zalmi,1,4,0,6,8.95,19.17,39.17,8.67,6.8
+1354953,2023,"Gaddafi Stadium, Lahore",Karachi Kings,Lahore Qalandars,196,7,6,26,6,20,36,62,1,69,3,110,10,Karachi Kings,1,1,2,2,9.8,21.67,30.0,10.33,13.8
+1354954,2023,"Gaddafi Stadium, Lahore",Multan Sultans,Lahore Qalandars,160,5,5,17,8,9,43,43,0,64,2,76,10,Multan Sultans,1,3,2,2,8.0,14.17,35.83,7.17,12.8
+1354955,2023,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Islamabad United,183,8,18,26,2,24,46,64,1,43,5,171,6,Peshawar Zalmi,1,4,0,2,9.15,21.67,38.33,10.67,8.6
+1354956,2023,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Lahore Qalandars,171,5,4,27,2,25,47,48,1,51,2,176,6,Lahore Qalandars,0,4,2,2,8.55,22.5,39.17,8.0,10.2
+1354957,2023,"Gaddafi Stadium, Lahore",Lahore Qalandars,Multan Sultans,200,6,10,29,10,19,53,38,1,88,2,199,8,Lahore Qalandars,1,2,3,2,10.0,24.17,44.17,6.33,17.6
+1416472,2024,"Gaddafi Stadium, Lahore",Lahore Qalandars,Islamabad United,195,5,12,22,8,14,40,58,0,75,3,200,2,Islamabad United,0,2,0,2,9.75,18.33,33.33,9.67,15.0
+1416473,2024,"Gaddafi Stadium, Lahore",Quetta Gladiators,Peshawar Zalmi,206,5,13,28,7,21,39,57,0,60,5,190,6,Quetta Gladiators,1,5,4,2,10.3,23.33,32.5,9.5,12.0
+1416474,2024,Multan Cricket Stadium,Multan Sultans,Karachi Kings,185,2,15,21,4,17,40,47,1,65,1,130,8,Multan Sultans,1,3,1,3,9.25,17.5,33.33,7.83,13.0
+1416475,2024,"Gaddafi Stadium, Lahore",Lahore Qalandars,Quetta Gladiators,187,7,10,24,10,14,50,33,1,80,3,188,5,Quetta Gladiators,0,2,5,2,9.35,20.0,41.67,5.5,16.0
+1416476,2024,Multan Cricket Stadium,Islamabad United,Multan Sultans,144,10,14,13,5,8,56,26,2,44,6,145,5,Multan Sultans,0,0,3,3,7.2,10.83,46.67,4.33,8.8
+1416477,2024,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Karachi Kings,154,10,3,17,5,12,45,40,2,42,6,157,3,Karachi Kings,0,4,1,2,7.7,14.17,37.5,6.67,8.4
+1416478,2024,Multan Cricket Stadium,Lahore Qalandars,Multan Sultans,166,5,9,17,6,11,46,44,1,56,3,170,5,Multan Sultans,0,2,3,3,8.3,14.17,38.33,7.33,11.2
+1416479,2024,"Gaddafi Stadium, Lahore",Islamabad United,Quetta Gladiators,138,9,11,13,4,9,50,42,1,40,4,139,7,Quetta Gladiators,0,0,5,2,6.9,10.83,41.67,7.0,8.0
+1416480,2024,Multan Cricket Stadium,Peshawar Zalmi,Multan Sultans,179,8,9,25,5,20,52,34,1,52,4,174,10,Peshawar Zalmi,1,4,3,3,8.95,20.83,43.33,5.67,10.4
+1416481,2024,"Gaddafi Stadium, Lahore",Lahore Qalandars,Karachi Kings,175,6,4,21,7,14,40,25,1,77,2,176,8,Karachi Kings,0,2,1,2,8.75,17.5,33.33,4.17,15.4
+1416482,2024,Multan Cricket Stadium,Multan Sultans,Quetta Gladiators,180,4,7,25,9,16,51,38,1,72,2,167,9,Multan Sultans,1,3,5,3,9.0,20.83,42.5,6.33,14.4
+1416483,2024,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Lahore Qalandars,211,4,9,27,8,19,36,44,0,76,4,203,6,Peshawar Zalmi,1,4,2,2,10.55,22.5,30.0,7.33,15.2
+1416484,2024,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Islamabad United,201,5,6,26,4,22,25,56,0,83,1,193,9,Peshawar Zalmi,1,4,0,2,10.05,21.67,20.83,9.33,16.6
+1416485,2024,"Gaddafi Stadium, Lahore",Multan Sultans,Lahore Qalandars,214,4,14,28,6,22,40,45,1,70,2,154,10,Multan Sultans,1,3,2,2,10.7,23.33,33.33,7.5,14.0
+1416486,2024,"National Stadium, Karachi",Karachi Kings,Islamabad United,165,5,19,16,2,14,51,37,1,71,0,169,3,Islamabad United,0,1,0,5,8.25,13.33,42.5,6.17,14.2
+1416487,2024,"National Stadium, Karachi",Karachi Kings,Quetta Gladiators,165,8,7,22,5,17,53,53,1,51,3,169,5,Quetta Gladiators,0,1,5,5,8.25,18.33,44.17,8.83,10.2
+1416490,2024,"National Stadium, Karachi",Multan Sultans,Karachi Kings,189,3,2,23,5,18,32,44,1,71,2,169,7,Multan Sultans,1,3,1,5,9.45,19.17,26.67,7.33,14.2
+1416491,2024,Rawalpindi Cricket Stadium,Islamabad United,Peshawar Zalmi,196,4,9,26,11,15,44,37,2,68,1,167,9,Islamabad United,1,0,4,6,9.8,21.67,36.67,6.17,13.6
+1416492,2024,Rawalpindi Cricket Stadium,Peshawar Zalmi,Multan Sultans,204,5,12,28,11,17,51,64,0,60,3,200,5,Peshawar Zalmi,1,4,3,6,10.2,23.33,42.5,10.67,12.0
+1416493,2024,Rawalpindi Cricket Stadium,Quetta Gladiators,Karachi Kings,118,10,4,13,4,9,56,51,1,22,5,121,3,Karachi Kings,0,5,1,6,5.9,10.83,46.67,8.5,4.4
+1416494,2024,Rawalpindi Cricket Stadium,Lahore Qalandars,Islamabad United,162,7,7,17,9,8,57,18,2,69,2,145,10,Lahore Qalandars,1,2,0,6,8.1,14.17,47.5,3.0,13.8
+1416495,2024,Rawalpindi Cricket Stadium,Karachi Kings,Islamabad United,150,7,16,20,4,16,63,34,1,43,2,151,5,Islamabad United,0,1,0,6,7.5,16.67,52.5,5.67,8.6
+1416496,2024,Rawalpindi Cricket Stadium,Peshawar Zalmi,Quetta Gladiators,196,8,11,28,7,21,49,62,1,45,3,120,10,Peshawar Zalmi,1,4,5,6,9.8,23.33,40.83,10.33,9.0
+1416497,2024,"National Stadium, Karachi",Lahore Qalandars,Karachi Kings,177,5,8,20,7,13,37,35,1,59,3,179,7,Karachi Kings,0,2,1,5,8.85,16.67,30.83,5.83,11.8
+1416498,2024,Rawalpindi Cricket Stadium,Multan Sultans,Islamabad United,228,4,5,37,10,27,40,52,1,78,1,232,7,Islamabad United,0,3,0,6,11.4,30.83,33.33,8.67,15.6
+1416499,2024,"National Stadium, Karachi",Lahore Qalandars,Quetta Gladiators,166,4,4,17,7,10,38,38,0,66,1,169,4,Quetta Gladiators,0,2,5,5,8.3,14.17,31.67,6.33,13.2
+1416500,2024,"National Stadium, Karachi",Peshawar Zalmi,Karachi Kings,147,6,16,16,1,15,58,47,0,45,2,145,5,Peshawar Zalmi,1,4,1,5,7.35,13.33,48.33,7.83,9.0
+1416501,2024,"National Stadium, Karachi",Multan Sultans,Quetta Gladiators,185,4,7,22,8,14,42,40,1,77,2,106,10,Multan Sultans,1,3,5,5,9.25,18.33,35.0,6.67,15.4
+1416502,2024,"National Stadium, Karachi",Peshawar Zalmi,Multan Sultans,146,7,9,16,1,15,45,42,1,44,3,147,3,Multan Sultans,0,4,3,5,7.3,13.33,37.5,7.0,8.8
+1416503,2024,"National Stadium, Karachi",Islamabad United,Quetta Gladiators,174,9,10,19,9,10,42,46,0,47,7,135,10,Islamabad United,1,0,5,5,8.7,15.83,35.0,7.67,9.4
+1416504,2024,"National Stadium, Karachi",Peshawar Zalmi,Islamabad United,185,5,2,24,9,15,40,45,0,55,4,189,5,Islamabad United,0,4,0,5,9.25,20.0,33.33,7.5,11.0
+1416505,2024,"National Stadium, Karachi",Multan Sultans,Islamabad United,159,9,10,21,6,15,57,41,2,58,5,163,8,Islamabad United,0,3,0,5,7.95,17.5,47.5,6.83,11.6
+1475238,2025,Rawalpindi Cricket Stadium,Lahore Qalandars,Islamabad United,139,10,14,18,5,13,65,32,2,45,5,143,2,Islamabad United,0,2,0,6,6.95,15.0,54.17,5.33,9.0
+1475239,2025,Rawalpindi Cricket Stadium,Quetta Gladiators,Peshawar Zalmi,216,3,7,30,12,18,41,58,0,78,2,136,10,Quetta Gladiators,1,5,4,6,10.8,25.0,34.17,9.67,15.6
+1475240,2025,"National Stadium, Karachi",Multan Sultans,Karachi Kings,234,3,22,32,9,23,49,55,0,92,1,236,6,Karachi Kings,0,3,1,5,11.7,26.67,40.83,9.17,18.4
+1475241,2025,Rawalpindi Cricket Stadium,Lahore Qalandars,Quetta Gladiators,219,6,8,32,9,23,36,43,1,75,4,140,10,Lahore Qalandars,1,2,5,6,10.95,26.67,30.0,7.17,15.0
+1475242,2025,Rawalpindi Cricket Stadium,Islamabad United,Peshawar Zalmi,243,5,13,37,12,25,42,62,1,80,2,141,10,Islamabad United,1,0,4,6,12.15,30.83,35.0,10.33,16.0
+1475243,2025,"National Stadium, Karachi",Lahore Qalandars,Karachi Kings,201,6,6,29,9,20,46,34,2,60,4,136,10,Lahore Qalandars,1,2,1,5,10.05,24.17,38.33,5.67,12.0
+1475244,2025,Rawalpindi Cricket Stadium,Islamabad United,Multan Sultans,202,6,8,30,9,21,43,47,1,75,3,155,10,Islamabad United,1,0,3,6,10.1,25.0,35.83,7.83,15.0
+1475245,2025,"National Stadium, Karachi",Karachi Kings,Quetta Gladiators,175,7,4,21,4,17,35,51,0,67,3,119,9,Karachi Kings,1,1,5,5,8.75,17.5,29.17,8.5,13.4
+1475246,2025,Rawalpindi Cricket Stadium,Peshawar Zalmi,Multan Sultans,227,7,10,31,16,15,39,44,2,88,3,107,10,Peshawar Zalmi,1,4,3,6,11.35,25.83,32.5,7.33,17.6
+1475247,2025,"National Stadium, Karachi",Karachi Kings,Islamabad United,128,7,11,11,3,8,55,29,2,47,3,129,4,Islamabad United,0,1,0,5,6.4,9.17,45.83,4.83,9.4
+1475248,2025,"National Stadium, Karachi",Peshawar Zalmi,Karachi Kings,147,8,10,20,2,18,66,17,1,47,5,148,8,Karachi Kings,0,4,1,5,7.35,16.67,55.0,2.83,9.4
+1475249,2025,Multan Cricket Stadium,Multan Sultans,Lahore Qalandars,228,5,3,32,12,20,33,59,0,66,3,195,9,Multan Sultans,1,3,2,3,11.4,26.67,27.5,9.83,13.2
+1475250,2025,Multan Cricket Stadium,Multan Sultans,Islamabad United,168,5,4,19,7,12,38,36,0,47,3,171,3,Islamabad United,0,3,0,3,8.4,15.83,31.67,6.0,9.4
+1475251,2025,"Gaddafi Stadium, Lahore",Lahore Qalandars,Peshawar Zalmi,129,10,7,19,7,12,71,26,4,35,3,133,3,Peshawar Zalmi,0,2,4,2,6.45,15.83,59.17,4.33,7.0
+1475252,2025,"Gaddafi Stadium, Lahore",Quetta Gladiators,Karachi Kings,142,10,4,17,3,14,48,37,3,46,5,137,8,Quetta Gladiators,1,5,1,2,7.1,14.17,40.0,6.17,9.2
+1475253,2025,"Gaddafi Stadium, Lahore",Multan Sultans,Lahore Qalandars,185,3,6,23,9,14,40,30,1,76,0,186,5,Lahore Qalandars,0,3,2,2,9.25,19.17,33.33,5.0,15.2
+1475254,2025,"Gaddafi Stadium, Lahore",Quetta Gladiators,Peshawar Zalmi,178,7,10,26,3,23,48,51,1,53,4,114,10,Quetta Gladiators,1,5,4,2,8.9,21.67,40.0,8.5,10.6
+1475255,2025,"Gaddafi Stadium, Lahore",Multan Sultans,Quetta Gladiators,89,10,6,10,2,8,60,25,4,16,3,90,0,Quetta Gladiators,0,3,5,2,4.45,8.33,50.0,4.17,3.2
+1475256,2025,"Gaddafi Stadium, Lahore",Lahore Qalandars,Islamabad United,209,6,13,30,12,18,53,39,0,96,3,121,10,Lahore Qalandars,1,2,0,2,10.45,25.0,44.17,6.5,19.2
+1475257,2025,"Gaddafi Stadium, Lahore",Karachi Kings,Multan Sultans,204,4,13,27,11,16,43,59,2,71,1,117,10,Karachi Kings,1,1,3,2,10.2,22.5,35.83,9.83,14.2
+1475259,2025,"Gaddafi Stadium, Lahore",Islamabad United,Peshawar Zalmi,143,9,6,20,4,16,64,45,0,52,3,147,4,Peshawar Zalmi,0,0,4,2,7.15,16.67,53.33,7.5,10.4
+1475260,2025,"Gaddafi Stadium, Lahore",Islamabad United,Quetta Gladiators,157,9,5,21,11,10,62,50,0,61,3,159,8,Quetta Gladiators,0,0,5,2,7.85,17.5,51.67,8.33,12.2
+1475261,2025,"Gaddafi Stadium, Lahore",Lahore Qalandars,Karachi Kings,160,8,8,22,10,12,38,47,0,8,2,168,6,Karachi Kings,0,2,1,2,8.0,18.33,31.67,7.83,1.6
+1475262,2025,Multan Cricket Stadium,Multan Sultans,Peshawar Zalmi,108,10,6,15,2,13,69,34,1,34,4,110,3,Peshawar Zalmi,0,3,4,3,5.4,12.5,57.5,5.67,6.8
+1475263,2025,Rawalpindi Cricket Stadium,Quetta Gladiators,Islamabad United,263,3,18,39,15,24,39,58,1,95,1,154,10,Quetta Gladiators,1,5,0,6,13.15,32.5,32.5,9.67,19.0
+1475264,2025,Rawalpindi Cricket Stadium,Karachi Kings,Peshawar Zalmi,237,4,8,36,9,27,35,53,1,82,3,214,5,Karachi Kings,1,1,4,6,11.85,30.0,29.17,8.83,16.4
+1475265,2025,Rawalpindi Cricket Stadium,Multan Sultans,Quetta Gladiators,185,7,4,26,9,17,45,38,1,59,3,190,8,Quetta Gladiators,0,3,5,6,9.25,21.67,37.5,6.33,11.8
+1475266,2025,Rawalpindi Cricket Stadium,Lahore Qalandars,Peshawar Zalmi,149,8,13,23,8,15,34,71,1,0,0,123,8,Lahore Qalandars,1,2,4,6,7.45,19.17,28.33,11.83,0.0
+1475267,2025,Rawalpindi Cricket Stadium,Islamabad United,Karachi Kings,251,5,11,36,16,20,40,59,0,80,3,172,10,Islamabad United,1,0,1,6,12.55,30.0,33.33,9.83,16.0
+1475268,2025,"Gaddafi Stadium, Lahore",Quetta Gladiators,Islamabad United,209,6,8,30,9,21,40,65,2,73,1,179,10,Quetta Gladiators,1,5,0,2,10.45,25.0,33.33,10.83,14.6
+1475269,2025,"Gaddafi Stadium, Lahore",Karachi Kings,Lahore Qalandars,190,8,19,23,7,16,53,50,1,62,5,191,4,Lahore Qalandars,0,1,2,2,9.5,19.17,44.17,8.33,12.4
+1475270,2025,"Gaddafi Stadium, Lahore",Lahore Qalandars,Islamabad United,202,8,12,30,7,23,43,47,1,75,5,107,10,Lahore Qalandars,1,2,0,2,10.1,25.0,35.83,7.83,15.0
+1475271,2025,"Gaddafi Stadium, Lahore",Quetta Gladiators,Lahore Qalandars,201,9,6,31,10,21,45,48,2,64,5,204,4,Lahore Qalandars,0,5,2,2,10.05,25.83,37.5,8.0,12.8
