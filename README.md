@@ -170,9 +170,3 @@ PSL_Predictor/
 - Deploy on Streamlit Cloud
 
 ---
-
-## Author
-
-**[Your Name]**
-BS Computer Science — UET Lahore
-[GitHub](#) | [LinkedIn](#)
