@@ -1,4 +1,4 @@
-# 🏏 PSL Machine Learning Project
+#  PSL Machine Learning Project
 
 ## Overview
 A complete machine learning project based on Pakistan Super League (PSL) ball-by-ball data.
@@ -38,11 +38,8 @@ psl_ml_project/
 | Model | Type |
 |-------|------|
 | Logistic Regression | Linear |
-| Decision Tree | Tree-based |
-| **Random Forest** | Ensemble ✅ Best |
-| Gradient Boosting | Ensemble |
-| SVM | Kernel-based |
-
+| Random Forest |
+| XGBoost ✅ Best |
 ## Requirements
 ```
 pandas
